@@ -1,0 +1,80 @@
+Doing Laundry
+
+1 Prepare Laundry
+  1.1 Separate Laundry
+      1.1.1 Grab piece of laundry
+        1.1.1.Pick out piece of laundry
+      1.1.2 Locate tag
+      1.1.3 Read tag
+      1.1.4 Turn piece of laundry right side out
+      1.1.5 Place in correct pile
+        1.1.5.1 Create different piles
+          1.1.5.1.1 Make pile for cold darks
+          1.1.5.1.2 Make pile for warm darks
+          1.1.5.1.3 Make pile for cold lights
+          1.1.5.1.4 Make pile for warm lights
+2 Wash Laundry
+  2.1 Bring laundry to laundry room
+    2.1.1 Grab one pile of laundry
+    2.1.2 Go down stairs
+    2.1.3 Walk to Laundry room
+    2.1.4 Place pile of laundry on floor
+  2.2 Open washing machine door
+  2.3 Place clothes in washing machine
+    2.3.1 Pick up pile of laundry on the laundry room floor
+     2.3.1.1 Bend knees
+     2.3.1.2 Scoop laundry into arms
+     2.3.1.3 Stand up with laundry still in arms
+     2.3.1.4 Turn and face washing machine
+    2.3.2 Place clothes inside the open washing machine
+  2.4 Add detergent
+    2.4.1 Get detergent bottle from shelve
+    2.4.2 Take off measuring cap from detergent bottle
+    2.4.3 Fill up measuring cap to two thirds full
+    2.4.4 Pour contents evenly from measuring cap into open washing machine
+    2.4.5 Rinse out measuring cap
+      2.4.5.1 Walk over to sink
+      2.4.5.2 Turn on faucet
+      2.4.5.3 Hold measuring cap under water until clean
+      2.4.5.4 Turn off faucet
+    2.4.6 Replace measuring cup onto detergent bottle
+      2.4.6.1 Walk back to laundry room
+      2.4.6.2 Grab detergent bottle
+      2.4.6.3 Screw measuring cap back onto detergent bottle
+    2.4.7 Place detergent bottle back on shelve
+  2.5 Close washing machine door
+  2.6 Start washing machine
+    2.6.1 Pick cycle
+    2.6.2 Press button for chosen cycle
+  2.7 Wait for cycle to complete
+3 Dry Laundry
+  3.1 Open Washing machine door
+  3.2 Open drier door
+  3.3 Remove wet clothes from washing machine
+    3.3.1 Place arms in washing machine
+    3.3.2 Gather up all the clothes from the washing machine
+    3.3.3 Remove arms from washing machine with wet clothes in arms
+  3.4 Add wet laundry to drier
+    3.4.1 Walk over to drier with wet laundry
+    3.4.2 Place wet laundry into open drier
+  3.5 Close drier door
+  3.6 Start drier
+    3.6.1 Pick dry cycle
+    3.6.2 Press button for chosen cycle
+  3.7 Wait for dry cycle to complete
+4 Fold Laundry
+  4.1 Open drier
+  4.2 Remove clothes from direr
+    4.2.1 Place arms in drier
+    4.2.2 Gather up all the clothes from the drier
+    4.2.3 Remove arms from direr with dry clothes in arms
+  4.3 Fold clothes
+    4.3.1 Find Place to fold
+      4.3.1.1 Walk out of Laundry room with clothes in arms
+      4.3.1.2 Walk over to couch
+      4.3.1.3 Place dry clothes onto couch
+    4.3.2 Begin Folding
+      4.3.2.1 Pick up one piece of laundry
+      4.3.2.2 Fold it to the specifications your mom taught you
+    4.3.3 Place folded item onto open space on couch
+    4.3.4 Repeat process until all dry laundry items are folded
