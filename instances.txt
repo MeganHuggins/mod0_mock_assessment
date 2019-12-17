@@ -1,0 +1,21 @@
+class: dog
+
+instance: pug
+
+color: 'black'
+Name: 'puggo'
+currentWeight: 13
+furLength: 1
+isGoodBoy: True
+tricksKnown: ["sit","stay","speak","rollOver"]
+
+
+
+instance: goldenRetriever
+
+color: 'gold'
+Name: 'spazz'
+currentWeight: 58
+furLength: 6
+isGoodBoy: True
+tricksKnown: ["fetch","sit","playDead"]
