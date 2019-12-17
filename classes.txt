@@ -2,7 +2,7 @@ Class: Dog
 
 Attributes:
 color (string)
-Name (string)
+breed (string)
 currentWeight (integer)
 furLength (integer)
 isGoodBoy (boolean)
