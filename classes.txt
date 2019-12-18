@@ -9,8 +9,8 @@ isGoodBoy (boolean)
 tricksKnown (array)
 
 Methods:
-feedDog (adds 1lbs to currentWeight)
+feedDog (adds 1 to currentWeight)
 learnTrick (adds a trick at the end of tricks array)
-walkDog (subtracts 1lbs from currentWeight)
+walkDog (subtracts 1 from currentWeight)
 petDog (Change isGoodBoy to true)
 groomDog (subtracts one inch from furLength)
